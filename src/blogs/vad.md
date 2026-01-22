@@ -5,7 +5,7 @@ date: 2026-01-21
 category: dsp-everyday
 excerpt: Every time you say "Hey Siri" or "OK Google," your phone instantly recognizes that you're speaking. But how does it distinguish your voice from background noise, music, or silence? The answer lies in a technology called Voice Activity Detection (VAD), a critical component that makes modern voice assistants possible.
 tags: root-mean-square, zero-crossing-rate
-notebookUrl: https://colab.research.google.com/drive/12FL34sLFibfj3-7ciQYaZQ5PLfzywSdT
+notebookUrl: https://colab.research.google.com/drive/12FL34sLFibfj3-7ciQYaZQ5PLfzywSdT?usp=sharing
 ---
 
 ## What is Voice Activity Detection?
